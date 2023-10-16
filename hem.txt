@@ -2,3 +2,6 @@ stat1
 stat2
 stat3
 stat4
+stat6
+sta7
+stat8
