@@ -1,0 +1,3 @@
+sat1
+stat2
+sta3
