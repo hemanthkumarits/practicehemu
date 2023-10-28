@@ -1,0 +1,6 @@
+sts-1
+sta-2
+sta-3
+st-4
+st-5
+st-6
